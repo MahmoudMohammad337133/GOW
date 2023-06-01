@@ -41708,7 +41708,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 800px;
+  min-height: 111px;
 }
 
 .u-header .u-group-elements-1 {
@@ -41747,19 +41747,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-2 {
   width: 45px;
   height: 45px;
-  margin: -41px 18px 0 auto;
-}
-
-.u-header .u-text-2 {
-  font-family: "Playfair Display SC";
-  font-size: 3.4375rem;
-  margin: 111px auto 0;
-}
-
-.u-header .u-text-3 {
-  font-family: "Playfair Display SC";
-  font-size: 1.875rem;
-  margin: 47px auto 60px;
+  margin: -41px 18px 27px auto;
 }
 @media (max-width: 1199px) {
   .u-header .u-group-elements-1 {
@@ -41786,35 +41774,20 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-text-1 {
     font-size: 1rem;
   }
-
-  .u-header .u-text-2 {
-    font-size: 1rem;
-  }
-
-  .u-header .u-text-3 {
-    font-size: 1rem;
-  }
 }
 @media (max-width: 575px) {
-  .u-header .u-group-elements-1 {
-    margin-top: 164px;
-  }
-
   .u-header .u-text-1 {
     font-size: 3.75rem;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: 85px;
     margin-right: auto;
     margin-left: 82px;
   }
 
   .u-header .u-image-2 {
-    margin-top: -45px;
     margin-right: 84px;
-    margin-bottom: 60px;
   }
 }
  .u-footer {
